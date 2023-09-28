@@ -7,3 +7,6 @@ output: html_document
 
 Git Workflow:
 Before we start working with Git commands, it is necessary that you understand what it represents.
+
+There are four fundamental elements in the Git Workflow:
+Working Directory, Staging Area, Local Repository and Remote Repository.
